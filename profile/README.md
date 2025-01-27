@@ -1,6 +1,6 @@
 ## Welcome to the NoUsury.eth Repository 👋
 
-# More to come soon!
+### More to come soon!
 <!--
 
 **Here are some ideas to get you started:**
