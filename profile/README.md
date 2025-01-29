@@ -1,5 +1,5 @@
 ## Welcome to the NoUsury.eth Repository 👋
-
+### Read the [Docs](https://nousury-eth.gitbook.io/nousury.eth) 📑
 ### More to come soon!
 <!--
 
